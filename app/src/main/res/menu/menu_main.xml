@@ -7,7 +7,7 @@
             android:icon="@drawable/ic_homepage"/>
         <item
             android:id="@+id/nav_text"
-            android:title="Text"/>
+            android:title="Text" />
 <!--            android:icon=""/>-->
 
         <item
